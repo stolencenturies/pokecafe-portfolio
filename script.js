@@ -20,7 +20,7 @@ const projects = [
 
         technologies: ["HTML", "CSS", "JavaScript"],
 
-        status: "Currently Building",
+        status: "Completed",
 
         githubUrl: "https://github.com/stolencenturies/pokecafe-portfolio",
         demoUrl: "https://stolencenturies.github.io/pokecafe-portfolio/"
