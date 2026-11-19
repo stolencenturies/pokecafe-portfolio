@@ -22,8 +22,8 @@ const projects = [
 
         status: "Currently Building",
 
-        githubUrl: "",
-        demoUrl: ""
+        githubUrl: "https://github.com/stolencenturies/pokecafe-portfolio",
+        demoUrl: "https://github.com/stolencenturies/pokecafe-portfolio/"
     },
 
     {
